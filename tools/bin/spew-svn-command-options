@@ -26,8 +26,10 @@ def find_options(lines):
 ### Change this as needed to point to the specific binaries you wanna query.
 tools = ['svn',
          'svnadmin',
+         'svnauth',
          'svndumpfilter',
          'svnlook',
+         'svnmucc',
          'svnrdump',
          'svnserve',
          'svnsync',
