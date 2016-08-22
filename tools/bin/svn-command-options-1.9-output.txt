@@ -1,0 +1,656 @@
+svn add
+svn add --auto-props
+svn add --depth
+svn add --force
+svn add --no-auto-props
+svn add --no-ignore
+svn add --non-recursive
+svn add --parents
+svn add --quiet
+svn add --targets
+svn auth
+svn auth --remove
+svn auth --show-passwords
+svn blame
+svn blame --extensions
+svn blame --force
+svn blame --incremental
+svn blame --revision
+svn blame --use-merge-history
+svn blame --verbose
+svn blame --xml
+svn cat
+svn cat --ignore-keywords
+svn cat --revision
+svn changelist
+svn changelist --changelist
+svn changelist --depth
+svn changelist --quiet
+svn changelist --recursive
+svn changelist --remove
+svn changelist --targets
+svn checkout
+svn checkout --depth
+svn checkout --force
+svn checkout --ignore-externals
+svn checkout --non-recursive
+svn checkout --quiet
+svn checkout --revision
+svn cleanup
+svn cleanup --diff3-cmd
+svn cleanup --include-externals
+svn cleanup --quiet
+svn cleanup --remove-ignored
+svn cleanup --remove-unversioned
+svn commit
+svn commit --changelist
+svn commit --depth
+svn commit --editor-cmd
+svn commit --encoding
+svn commit --file
+svn commit --force-log
+svn commit --include-externals
+svn commit --keep-changelists
+svn commit --message
+svn commit --no-unlock
+svn commit --non-recursive
+svn commit --quiet
+svn commit --targets
+svn commit --with-revprop
+svn copy
+svn copy --editor-cmd
+svn copy --encoding
+svn copy --file
+svn copy --force-log
+svn copy --ignore-externals
+svn copy --message
+svn copy --parents
+svn copy --pin-externals
+svn copy --quiet
+svn copy --revision
+svn copy --with-revprop
+svn delete
+svn delete --editor-cmd
+svn delete --encoding
+svn delete --file
+svn delete --force
+svn delete --force-log
+svn delete --keep-local
+svn delete --message
+svn delete --quiet
+svn delete --targets
+svn delete --with-revprop
+svn diff
+svn diff --change
+svn diff --changelist
+svn diff --depth
+svn diff --diff-cmd
+svn diff --extensions
+svn diff --force
+svn diff --git
+svn diff --ignore-properties
+svn diff --internal-diff
+svn diff --new
+svn diff --no-diff-added
+svn diff --no-diff-deleted
+svn diff --non-recursive
+svn diff --notice-ancestry
+svn diff --old
+svn diff --patch-compatible
+svn diff --properties-only
+svn diff --revision
+svn diff --show-copies-as-adds
+svn diff --summarize
+svn diff --xml
+svn export
+svn export --depth
+svn export --force
+svn export --ignore-externals
+svn export --ignore-keywords
+svn export --native-eol
+svn export --non-recursive
+svn export --quiet
+svn export --revision
+svn help
+svn import
+svn import --auto-props
+svn import --depth
+svn import --editor-cmd
+svn import --encoding
+svn import --file
+svn import --force
+svn import --force-log
+svn import --message
+svn import --no-auto-props
+svn import --no-ignore
+svn import --non-recursive
+svn import --quiet
+svn import --with-revprop
+svn info
+svn info --changelist
+svn info --depth
+svn info --include-externals
+svn info --incremental
+svn info --no-newline
+svn info --recursive
+svn info --revision
+svn info --show-item
+svn info --targets
+svn info --xml
+svn list
+svn list --depth
+svn list --include-externals
+svn list --incremental
+svn list --recursive
+svn list --revision
+svn list --verbose
+svn list --xml
+svn lock
+svn lock --encoding
+svn lock --file
+svn lock --force
+svn lock --force-log
+svn lock --message
+svn lock --targets
+svn log
+svn log --change
+svn log --depth
+svn log --diff
+svn log --diff-cmd
+svn log --extensions
+svn log --incremental
+svn log --internal-diff
+svn log --limit
+svn log --quiet
+svn log --revision
+svn log --search
+svn log --search-and
+svn log --stop-on-copy
+svn log --targets
+svn log --use-merge-history
+svn log --verbose
+svn log --with-all-revprops
+svn log --with-no-revprops
+svn log --with-revprop
+svn log --xml
+svn merge
+svn merge --accept
+svn merge --allow-mixed-revisions
+svn merge --change
+svn merge --depth
+svn merge --diff3-cmd
+svn merge --dry-run
+svn merge --extensions
+svn merge --force
+svn merge --ignore-ancestry
+svn merge --non-recursive
+svn merge --quiet
+svn merge --record-only
+svn merge --reintegrate
+svn merge --revision
+svn merge --verbose
+svn mergeinfo
+svn mergeinfo --depth
+svn mergeinfo --incremental
+svn mergeinfo --log
+svn mergeinfo --quiet
+svn mergeinfo --recursive
+svn mergeinfo --revision
+svn mergeinfo --show-revs
+svn mergeinfo --verbose
+svn mkdir
+svn mkdir --editor-cmd
+svn mkdir --encoding
+svn mkdir --file
+svn mkdir --force-log
+svn mkdir --message
+svn mkdir --parents
+svn mkdir --quiet
+svn mkdir --with-revprop
+svn move
+svn move --allow-mixed-revisions
+svn move --editor-cmd
+svn move --encoding
+svn move --file
+svn move --force
+svn move --force-log
+svn move --message
+svn move --parents
+svn move --quiet
+svn move --revision
+svn move --with-revprop
+svn patch
+svn patch --dry-run
+svn patch --ignore-whitespace
+svn patch --quiet
+svn patch --reverse-diff
+svn patch --strip
+svn propdel
+svn propdel --changelist
+svn propdel --depth
+svn propdel --quiet
+svn propdel --recursive
+svn propdel --revision
+svn propdel --revprop
+svn propedit
+svn propedit --editor-cmd
+svn propedit --encoding
+svn propedit --file
+svn propedit --force
+svn propedit --force-log
+svn propedit --message
+svn propedit --revision
+svn propedit --revprop
+svn propedit --with-revprop
+svn propget
+svn propget --changelist
+svn propget --depth
+svn propget --no-newline
+svn propget --recursive
+svn propget --revision
+svn propget --revprop
+svn propget --show-inherited-props
+svn propget --strict
+svn propget --verbose
+svn propget --xml
+svn proplist
+svn proplist --changelist
+svn proplist --depth
+svn proplist --quiet
+svn proplist --recursive
+svn proplist --revision
+svn proplist --revprop
+svn proplist --show-inherited-props
+svn proplist --verbose
+svn proplist --xml
+svn propset
+svn propset --changelist
+svn propset --depth
+svn propset --encoding
+svn propset --file
+svn propset --force
+svn propset --quiet
+svn propset --recursive
+svn propset --revision
+svn propset --revprop
+svn propset --targets
+svn relocate
+svn relocate --ignore-externals
+svn resolve
+svn resolve --accept
+svn resolve --depth
+svn resolve --quiet
+svn resolve --recursive
+svn resolve --targets
+svn resolved
+svn resolved --depth
+svn resolved --quiet
+svn resolved --recursive
+svn resolved --targets
+svn revert
+svn revert --changelist
+svn revert --depth
+svn revert --quiet
+svn revert --recursive
+svn revert --targets
+svn status
+svn status --changelist
+svn status --depth
+svn status --ignore-externals
+svn status --incremental
+svn status --no-ignore
+svn status --non-recursive
+svn status --quiet
+svn status --revision
+svn status --show-updates
+svn status --verbose
+svn status --xml
+svn switch
+svn switch --accept
+svn switch --depth
+svn switch --diff3-cmd
+svn switch --force
+svn switch --ignore-ancestry
+svn switch --ignore-externals
+svn switch --non-recursive
+svn switch --quiet
+svn switch --relocate
+svn switch --revision
+svn switch --set-depth
+svn unlock
+svn unlock --force
+svn unlock --targets
+svn update
+svn update --accept
+svn update --changelist
+svn update --depth
+svn update --diff3-cmd
+svn update --editor-cmd
+svn update --force
+svn update --ignore-externals
+svn update --non-recursive
+svn update --parents
+svn update --quiet
+svn update --revision
+svn update --set-depth
+svn upgrade
+svn upgrade --quiet
+svnadmin crashtest
+svnadmin create
+svnadmin create --bdb-log-keep
+svnadmin create --bdb-txn-nosync
+svnadmin create --compatible-version
+svnadmin create --config-dir
+svnadmin create --fs-type
+svnadmin create --pre-1.4-compatible
+svnadmin create --pre-1.5-compatible
+svnadmin create --pre-1.6-compatible
+svnadmin delrevprop
+svnadmin delrevprop --revision
+svnadmin delrevprop --transaction
+svnadmin delrevprop --use-post-revprop-change-hook
+svnadmin delrevprop --use-pre-revprop-change-hook
+svnadmin deltify
+svnadmin deltify --memory-cache-size
+svnadmin deltify --quiet
+svnadmin deltify --revision
+svnadmin dump
+svnadmin dump --deltas
+svnadmin dump --incremental
+svnadmin dump --memory-cache-size
+svnadmin dump --quiet
+svnadmin dump --revision
+svnadmin freeze
+svnadmin freeze --file
+svnadmin help
+svnadmin hotcopy
+svnadmin hotcopy --clean-logs
+svnadmin hotcopy --incremental
+svnadmin hotcopy --quiet
+svnadmin info
+svnadmin list-dblogs
+svnadmin list-unused-dblogs
+svnadmin load
+svnadmin load --bypass-prop-validation
+svnadmin load --force-uuid
+svnadmin load --ignore-dates
+svnadmin load --ignore-uuid
+svnadmin load --memory-cache-size
+svnadmin load --parent-dir
+svnadmin load --quiet
+svnadmin load --revision
+svnadmin load --use-post-commit-hook
+svnadmin load --use-pre-commit-hook
+svnadmin lock
+svnadmin lock --bypass-hooks
+svnadmin lslocks
+svnadmin lstxns
+svnadmin pack
+svnadmin pack --memory-cache-size
+svnadmin pack --quiet
+svnadmin recover
+svnadmin recover --wait
+svnadmin rmlocks
+svnadmin rmtxns
+svnadmin rmtxns --quiet
+svnadmin setlog
+svnadmin setlog --bypass-hooks
+svnadmin setlog --revision
+svnadmin setrevprop
+svnadmin setrevprop --revision
+svnadmin setrevprop --transaction
+svnadmin setrevprop --use-post-revprop-change-hook
+svnadmin setrevprop --use-pre-revprop-change-hook
+svnadmin setuuid
+svnadmin unlock
+svnadmin unlock --bypass-hooks
+svnadmin upgrade
+svnadmin verify
+svnadmin verify --check-normalization
+svnadmin verify --keep-going
+svnadmin verify --memory-cache-size
+svnadmin verify --metadata-only
+svnadmin verify --quiet
+svnadmin verify --revision
+svnadmin verify --transaction
+svnauth
+svndumpfilter exclude
+svndumpfilter exclude --drop-all-empty-revs
+svndumpfilter exclude --drop-empty-revs
+svndumpfilter exclude --pattern
+svndumpfilter exclude --preserve-revprops
+svndumpfilter exclude --quiet
+svndumpfilter exclude --renumber-revs
+svndumpfilter exclude --skip-missing-merge-sources
+svndumpfilter exclude --targets
+svndumpfilter help
+svndumpfilter include
+svndumpfilter include --drop-all-empty-revs
+svndumpfilter include --drop-empty-revs
+svndumpfilter include --pattern
+svndumpfilter include --preserve-revprops
+svndumpfilter include --quiet
+svndumpfilter include --renumber-revs
+svndumpfilter include --skip-missing-merge-sources
+svndumpfilter include --targets
+svnlook author
+svnlook author --revision
+svnlook author --transaction
+svnlook cat
+svnlook cat --revision
+svnlook cat --transaction
+svnlook changed
+svnlook changed --copy-info
+svnlook changed --revision
+svnlook changed --transaction
+svnlook date
+svnlook date --revision
+svnlook date --transaction
+svnlook diff
+svnlook diff --diff-cmd
+svnlook diff --diff-copy-from
+svnlook diff --extensions
+svnlook diff --ignore-properties
+svnlook diff --no-diff-added
+svnlook diff --no-diff-deleted
+svnlook diff --properties-only
+svnlook diff --revision
+svnlook diff --transaction
+svnlook dirs-changed
+svnlook dirs-changed --revision
+svnlook dirs-changed --transaction
+svnlook filesize
+svnlook filesize --revision
+svnlook filesize --transaction
+svnlook help
+svnlook history
+svnlook history --limit
+svnlook history --revision
+svnlook history --show-ids
+svnlook info
+svnlook info --revision
+svnlook info --transaction
+svnlook lock
+svnlook log
+svnlook log --revision
+svnlook log --transaction
+svnlook propget
+svnlook propget --revision
+svnlook propget --revprop
+svnlook propget --show-inherited-props
+svnlook propget --transaction
+svnlook propget --verbose
+svnlook proplist
+svnlook proplist --revision
+svnlook proplist --revprop
+svnlook proplist --show-inherited-props
+svnlook proplist --transaction
+svnlook proplist --verbose
+svnlook proplist --xml
+svnlook tree
+svnlook tree --full-paths
+svnlook tree --non-recursive
+svnlook tree --revision
+svnlook tree --show-ids
+svnlook tree --transaction
+svnlook uuid
+svnlook youngest
+svnlook youngest --no-newline
+svnmucc
+svnmucc 
+svnmucc --config-dir
+svnmucc --config-option
+svnmucc --extra-args
+svnmucc --file
+svnmucc --force-interactive
+svnmucc --message
+svnmucc --no-auth-cache
+svnmucc --non-interactive
+svnmucc --password
+svnmucc --revision
+svnmucc --root-url
+svnmucc --trust-server-cert
+svnmucc --trust-server-cert-failures
+svnmucc --username
+svnmucc --version
+svnmucc --with-revprop
+svnrdump dump
+svnrdump dump --config-dir
+svnrdump dump --config-option
+svnrdump dump --force-interactive
+svnrdump dump --incremental
+svnrdump dump --no-auth-cache
+svnrdump dump --non-interactive
+svnrdump dump --password
+svnrdump dump --quiet
+svnrdump dump --revision
+svnrdump dump --trust-server-cert
+svnrdump dump --trust-server-cert-failures
+svnrdump dump --username
+svnrdump help
+svnrdump load
+svnrdump load --config-dir
+svnrdump load --config-option
+svnrdump load --force-interactive
+svnrdump load --no-auth-cache
+svnrdump load --non-interactive
+svnrdump load --password
+svnrdump load --quiet
+svnrdump load --skip-revprop
+svnrdump load --trust-server-cert
+svnrdump load --trust-server-cert-failures
+svnrdump load --username
+svnserve
+svnserve --block-read
+svnserve --cache-fulltexts
+svnserve --cache-revprops
+svnserve --cache-txdeltas
+svnserve --client-speed
+svnserve --compression
+svnserve --config-file
+svnserve --daemon
+svnserve --foreground
+svnserve --help
+svnserve --inetd
+svnserve --listen-host
+svnserve --listen-once
+svnserve --listen-port
+svnserve --log-file
+svnserve --max-threads
+svnserve --memory-cache-size
+svnserve --min-threads
+svnserve --pid-file
+svnserve --prefer-ipv6
+svnserve --quiet
+svnserve --read-only
+svnserve --root
+svnserve --single-thread
+svnserve --threads
+svnserve --tunnel
+svnserve --tunnel-user
+svnserve --version
+svnserve --virtual-host
+svnsync copy-revprops
+svnsync copy-revprops --config-dir
+svnsync copy-revprops --config-option
+svnsync copy-revprops --disable-locking
+svnsync copy-revprops --force-interactive
+svnsync copy-revprops --memory-cache-size
+svnsync copy-revprops --no-auth-cache
+svnsync copy-revprops --non-interactive
+svnsync copy-revprops --password
+svnsync copy-revprops --quiet
+svnsync copy-revprops --revision
+svnsync copy-revprops --source-password
+svnsync copy-revprops --source-prop-encoding
+svnsync copy-revprops --source-trust-server-cert-failures
+svnsync copy-revprops --source-username
+svnsync copy-revprops --steal-lock
+svnsync copy-revprops --sync-password
+svnsync copy-revprops --sync-trust-server-cert-failures
+svnsync copy-revprops --sync-username
+svnsync copy-revprops --trust-server-cert
+svnsync copy-revprops --username
+svnsync help
+svnsync info
+svnsync info --config-dir
+svnsync info --config-option
+svnsync info --force-interactive
+svnsync info --no-auth-cache
+svnsync info --non-interactive
+svnsync info --password
+svnsync info --source-password
+svnsync info --source-trust-server-cert-failures
+svnsync info --source-username
+svnsync info --sync-password
+svnsync info --sync-trust-server-cert-failures
+svnsync info --sync-username
+svnsync info --trust-server-cert
+svnsync info --username
+svnsync initialize
+svnsync initialize --allow-non-empty
+svnsync initialize --config-dir
+svnsync initialize --config-option
+svnsync initialize --disable-locking
+svnsync initialize --force-interactive
+svnsync initialize --memory-cache-size
+svnsync initialize --no-auth-cache
+svnsync initialize --non-interactive
+svnsync initialize --password
+svnsync initialize --quiet
+svnsync initialize --source-password
+svnsync initialize --source-prop-encoding
+svnsync initialize --source-trust-server-cert-failures
+svnsync initialize --source-username
+svnsync initialize --steal-lock
+svnsync initialize --sync-password
+svnsync initialize --sync-trust-server-cert-failures
+svnsync initialize --sync-username
+svnsync initialize --trust-server-cert
+svnsync initialize --username
+svnsync synchronize
+svnsync synchronize --config-dir
+svnsync synchronize --config-option
+svnsync synchronize --disable-locking
+svnsync synchronize --force-interactive
+svnsync synchronize --memory-cache-size
+svnsync synchronize --no-auth-cache
+svnsync synchronize --non-interactive
+svnsync synchronize --password
+svnsync synchronize --quiet
+svnsync synchronize --source-password
+svnsync synchronize --source-prop-encoding
+svnsync synchronize --source-trust-server-cert-failures
+svnsync synchronize --source-username
+svnsync synchronize --steal-lock
+svnsync synchronize --sync-password
+svnsync synchronize --sync-trust-server-cert-failures
+svnsync synchronize --sync-username
+svnsync synchronize --trust-server-cert
+svnsync synchronize --username
+svnversion
+svnversion --committed
+svnversion --help
+svnversion --no-newline
+svnversion --quiet
+svnversion --version
